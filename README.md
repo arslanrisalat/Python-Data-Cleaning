@@ -1,4 +1,5 @@
-Small IMDb Data Cleaning and Analysis Using Python
+**Small IMDb Data Cleaning and Analysis Using Python**
+
 📌 Project Overview
 This small project focuses on cleaning and analyzing the IMDb dataset using Python. Pandas and NumPy were used for data cleaning and preprocessing, while Matplotlib was used to create graphs and visualize data patterns.
 
